@@ -7,8 +7,8 @@ This project implements a real-time emotion detection system using various machi
 
 ### Files
 
-- **code.py**: Python script for training the CNN model, evaluating its performance, and exploring various machine learning algorithms for emotion detection.
-- **realtime.py**: Python script for real-time emotion detection using the trained CNN model and a webcam.
+- **code.py\ipynb**: Python script for training the CNN model, evaluating its performance, and exploring various machine learning algorithms for emotion detection.
+- **realtime.py\ipynb**: Python script for real-time emotion detection using the trained CNN model and a webcam.
 - **requirements.txt**: List of dependencies required to run the project.
 - **report.pdf**: Report containing detailed analysis, results, and findings from the experiments conducted.
 
@@ -29,6 +29,16 @@ This script includes:
 - Preprocessing of detected faces for input into the trained CNN model.
 - Display of detected emotions in real-time on the webcam feed.
 
+### report.pdf
+
+Detailed report on:
+
+- Dataset description and preprocessing steps.
+- Model architecture and training methodology.
+- Performance evaluation metrics.
+- Comparison with other machine learning algorithms.
+- Real-time implementation details and challenges faced.
+  
 ### requirements.txt
 
 Contains Python packages required to run the project. Install dependencies using:
